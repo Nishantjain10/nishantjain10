@@ -1,6 +1,4 @@
-<p align="center">
-  <img align="center" alt="Coding" width="500" src="https://www.thetechedvocate.org/wp-content/uploads/2018/02/hackathon.png">
- </p>
+
 <h1 align="center">Hi 👋, I'm Nishant Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
