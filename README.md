@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **My Upcoming Project SUGARSPACE**
 
-- 👨‍💻 All of my projects are available at [https://nishantjain10.github.io/portfolio/](https://devnishant.co)
+- 👨‍💻 All of my projects are available at [https://devnishant.co](https://devnishant.co)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
