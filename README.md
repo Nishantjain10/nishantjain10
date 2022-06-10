@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React,ExpressJS Framework, MongoDB, and complete MERN Stack.**
 
-- 👯 I’m looking to collaborate on [Devumble](https://github.com/yashsehgal/devumble)
+- 👯 I’m looking to collaborate on **Open-Source Projects**
 
 - 🤝 I’m looking for help with **My Upcoming Project SUGARSPACE**
 
