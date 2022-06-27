@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 🤝 I’m looking for help with **My Upcoming Project SUGARSPACE**
-
 - 👨‍💻 All of my projects are available at [https://devnishant.co](https://devnishant.co)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
