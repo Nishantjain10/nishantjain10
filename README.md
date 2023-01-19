@@ -22,7 +22,7 @@ I am a well-rounded front-end developer with a broad range of skills and experie
 - Skilled in building projects in a short period of time, even under challenging conditions such as using new technologies. 
 - Organized and efficient developer who is always looking to push the limits of my abilities and deliver the best possible results.
 
-## 🧡 Community Builder in HEKORS
+## 🧡 Community Builder at [HEKORS](https://github.com/hekors)
 - Facilitate communication and collaboration through open-source projects and hackathons
 - Provide a learning space for members and promote an inclusive culture
 - Encourage participation in open-source initiatives
