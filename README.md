@@ -28,14 +28,14 @@ I am a well-rounded front-end developer with a broad range of skills and experie
 - Encourage participation in open-source initiatives
 
 ## Repositories📃
-- [VogueEco]([link](https://github.com/Nishantjain10/VogueEco))
-- [StreeVendors]([link](https://github.com/Nishantjain10/streeVendors))
-- [VoiceForm]([link](https://github.com/Nishantjain10/Autofill-Form-Using-Alan-AI))
+- [VogueEco](https://github.com/Nishantjain10/VogueEco)
+- [StreeVendors](https://github.com/Nishantjain10/streeVendors)
+- [VoiceForm](https://github.com/Nishantjain10/Autofill-Form-Using-Alan-AI)
 
 ## Connect💞
-- [LinkedIn]([link](https://www.linkedin.com/in/nishantj2002/))
-- [Twitter]([link](https://twitter.com/devnishant10))
-- [Website]([link](https://www.devnishant.co/))
+- [LinkedIn](https://www.linkedin.com/in/nishantj2002/)
+- [Twitter](https://twitter.com/devnishant10)
+- [Website](https://www.devnishant.co/)
 
 ## Contributions
 I am always open to contributions and suggestions, feel free to open an issue or make a pull request.
