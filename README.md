@@ -1,4 +1,6 @@
-# 🚀 Nishant Jain
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantjain10&label=Profile%20views&color=0e75b6&style=flat" alt="nishantjain10" /> </p>
+
+##  ☘ Nishant Jain
 I am a well-rounded front-end developer with a broad range of skills and experience in technologies like React, Next.js, Tailwind, CSS, and HTML. My expertise also extends to backend technologies and libraries like Docker, Spring Boot, Appwrite, and Digital Ocean. I have proficiency in languages like C++, Python, and Java, which enables me to tackle any development challenges with ease.
 <h3 align="center">A passionate frontend dev from India</h3>
 
@@ -31,4 +33,15 @@ I am always open to contributions and suggestions, feel free to open an issue or
 ## 🙏 Acknowledgements
 I would like to thank all the open-source contributors and community members for their support and guidance.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantjain10&show_icons=true&locale=en&layout=compact" alt="nishantjain10" /></p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## 🎉 Thank you for visiting my profile!
+
