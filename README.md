@@ -30,18 +30,7 @@ I am always open to contributions and suggestions, feel free to open an issue or
 - [Twitter](https://twitter.com/devnishant10)
 - [Website](https://www.devnishant.co/)
 
-## 🙏 Acknowledgements
-I would like to thank all the open-source contributors and community members for their support and guidance.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantjain10&show_icons=true&locale=en&layout=compact" alt="nishantjain10" /></p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-
-## 🎉 Thank you for visiting my profile!
 
