@@ -20,7 +20,6 @@ I am a well-rounded front-end developer with a broad range of skills and experie
 - [VogueEco](https://github.com/Nishantjain10/VogueEco)
 - [StreeVendors](https://github.com/Nishantjain10/streeVendors)
 - [VoiceForm](https://github.com/Nishantjain10/Autofill-Form-Using-Alan-AI) <br>
-I am always open to contributions and suggestions, feel free to open an issue or make a pull request.
 
 
 - [LinkedIn](https://www.linkedin.com/in/nishantj2002/)
