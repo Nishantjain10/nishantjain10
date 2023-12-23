@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantjain10&label=Profile%20views&color=0e75b6&style=flat" alt="nishantjain10" /> </p>
 
 ##  ☘ Nishant Jain
-ex-devrel @fastn-stack ✦ passionate about frontend, design, community, engineering & hackathons 🛠️ ✦ avenger at @hekors ✦ community mod @appwrite 🚀
+ex-devrel @fastn-stack ✦ passionate about frontend, design, community, engineering & hackathons 🛠️ ✦ avenger at @hekors 
+✦ community mod @appwrite 🚀
 
 
 ## 🎓 Skills
